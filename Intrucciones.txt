@@ -87,6 +87,24 @@ Mantenedor clientes
 			->Eliminar
 			->Modificar
 			
+______________________________________
+
+Mantenedor vehiculos
+	-Listar todos los vehiculos de la empresa:
+		->Nombre vehiculo
+		->Patente
+		->Capacidad (Capacidad de paquetes o KG) *Investigar
+		->Tipo
+		->Estado
+			->Operativo
+			->En mantencion
+			->No disponible
+		->Acciones
+			->Eliminar
+			->Modificar
 			
+______________________________________
+
+
 
 
