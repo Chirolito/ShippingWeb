@@ -1,0 +1,44 @@
+Aprender JS y Angular.
+Casos de uso.
+Api de GoogleMaps
+
+El trabajo se debe desarrollar en angular.
+
+->Rut auto relleno (Guion y punto)
+->Validaciones por detras
+->Formolario rut registro usuario
+	->RUT
+	->NOMBRE
+	->APELLIDO PATERNO
+	->APELLIDO MATERNO
+	->FECHA NACIMIENTO (Validar que sea mayor de 18años)
+	->Direccion
+	->REGION (LISTA)
+	->COMUNA (Relacionado a la region)
+	->CELULAR (AUTO +56)
+	->CORREO
+
+	->Aceptar terminos y condiciones (Poder descargar) 
+		->Debe ser un campo
+	->Habilitar registrar cuando acepte termino y condiciones
+  
+_____________________________________________________________________________________________
+
+Rut y correo no se pueden modificar
+
+Actualizar datos clientes
+	->NOMBRE
+	->APELLIDO PATERNO
+	->APELLIDO MATERNO
+	->Direccion
+	->REGION (LISTA)
+	->COMUNA (Relacionado a la region)
+	->CELULAR (AUTO +56)
+	->CORREO (Si esta validado)
+  
+ ______________________________________
+ 
+ Vista cliente
+  ->Vista 
+    -> Seguimirnto envio
+    -> Solicitud envio
