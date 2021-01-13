@@ -1,5 +1,6 @@
 Aprender JS y Angular.
-Casos de uso.
+Casos de uso
+	->Shipping mensajeria
 Api de GoogleMaps
 
 El trabajo se debe desarrollar en angular.
@@ -76,6 +77,16 @@ Seguimiento de envio
 	
 ______________________________________
 
-
+Mantenedor clientes
+	-Listar todos los clientes con:
+		->Nombre
+		->Correo
+		->Direccion
+		->Telefono
+		->Acciones
+			->Eliminar
+			->Modificar
+			
+			
 
 
