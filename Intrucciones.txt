@@ -49,12 +49,21 @@ Actualizar datos clientes
   	-> Direccion de retiro
 	-> Direccion de entrega
 	-> Direccion de envio
+	-> Nombre cliente quien recibe
+	-> Numero del cliente
+	-> Correo cliente (Opcional)
+	
 	
 	->Fecha de envio (Evitar que agende hacia atras)
 	
 	->Tener boton para permitir si necesita mas de un envio
+		->Tambien permitir borrar si se agrego de mas.
 	->Boton para hacer la solicitud de envio.
+		->Si se solicita, preguntar si esta seguro.
+		->Enviar por correo el numero de envio.
 ______________________________________
 
+Seguimiento de envio
+	->
 
 
