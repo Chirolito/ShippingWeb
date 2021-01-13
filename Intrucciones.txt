@@ -70,8 +70,12 @@ Seguimiento de envio
 	-> Cliente destino
 	-> Estado envio
 	-> Evidencia entrega
+		->Icono fotografia en caso de recibido-
+		->Icono de imagen no disponible si aun no ha sido recibido y no hay imagen.
 	-> Observaciones
 	
-	
+______________________________________
+
+
 
 
