@@ -110,6 +110,36 @@ Mantenedor vehiculos
 			
 ______________________________________
 
+Mantenedor vehiculos
+	-Listar todos los choferes de la empresa:
+		->Nombre chofer
+		->Tipo Vehiculo
+		->Patente
+		->Estado
+			->Operativo
+			->En mantencion
+			->No disponible
+		->Acciones
+			->Eliminar
+			->Modificar
+
+______________________________________
+
+Filtro Admin:
+	->Visualizar lo que el administrador desee
+		->Vista general
+			->Entregas
+			->Emergencias
+			->Entregado
+			->Pendiente
+			->Urgencias
+
+______________________________________
+
+Rutas
+	->Areas de envio
+	->Repartir repartidores por area
+______________________________________
 Reunion: 12-01-2021
 	-Bruno G.
 
