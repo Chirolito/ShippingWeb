@@ -61,9 +61,17 @@ Actualizar datos clientes
 	->Boton para hacer la solicitud de envio.
 		->Si se solicita, preguntar si esta seguro.
 		->Enviar por correo el numero de envio.
+		
+	-> Numero de envio alfanumerico.
 ______________________________________
 
 Seguimiento de envio
-	->
+	-> Direccion destino
+	-> Cliente destino
+	-> Estado envio
+	-> Evidencia entrega
+	-> Observaciones
+	
+	
 
 
