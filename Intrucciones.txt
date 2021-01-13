@@ -42,3 +42,19 @@ Actualizar datos clientes
   ->Vista 
     -> Seguimirnto envio
     -> Solicitud envio
+    
+  ______________________________________
+  
+  Crear solicitud envio
+  	-> Direccion de retiro
+	-> Direccion de entrega
+	-> Direccion de envio
+	
+	->Fecha de envio (Evitar que agende hacia atras)
+	
+	->Tener boton para permitir si necesita mas de un envio
+	->Boton para hacer la solicitud de envio.
+______________________________________
+
+
+
